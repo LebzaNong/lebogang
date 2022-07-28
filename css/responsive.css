@@ -1,0 +1,132 @@
+/***********responsive***css*/
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 360px)
+  {
+    
+  }
+
+
+
+ @media (min-width: 576px)
+  {
+    
+  }
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) 
+{
+    
+}
+/* Large devices (desktops, 992px and up)*/
+ @media (min-width: 992px) 
+ {
+
+  }
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px)
+ {
+
+  }
+/* XX-Large devices (larger desktops, 1400px and up)*/
+ @media (min-width: 1400px)
+  {
+
+   }
+
+   /**********************max*width********************/
+
+ /* `sm` applies to x-small devices (portrait phones, less than 576px)*/
+   @media (max-width: 575.98px)
+   {
+
+    /****************/
+
+    .bnr-icons {
+      color: #070707;
+      font-size: 17px;
+      background: #CDA574;
+      padding: 1px;
+      border-radius: 50%;
+      height: 30px;
+      width: 21px;
+      border: 2px solid #1B5C98;
+  }
+    /********************/
+
+    .img-fluid {
+      max-width: 100%;
+      height: 200px;
+      /* box-shadow: 10px 10px 12px 0px rgb(27 10 121 / 71%); */
+  }
+
+    .shop-car .w-100
+    {
+      width: 100% !important;
+     height: 200px;   
+    }
+    }
+   /* `md` applies to small devices (landscape phones, less than 768px)*/
+    @media (max-width: 767.98px) 
+    {
+
+     }
+    /* `lg` applies to medium devices (tablets, less than 992px)*/
+     @media (max-width: 991.98px) 
+     {
+
+      }
+/* `xl` applies to large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) 
+{
+
+  }
+/* `xxl` applies to x-large devices (large desktops, less than 1400px)*/
+@media (max-width: 1399.98px) 
+{
+      
+ }
+
+
+
+ /* responsive css footer*/
+@media only screen and(min-width: 768px) and (max-width: 991px)
+{
+  .md-mb-30 
+  {
+    margin-bottom: 30px;
+  }
+ }
+ @media only screen and (max-width: 767px)
+ {
+   .sm-mb-30
+   {
+     margin-bottom: 30px;
+   }
+   .footer-top
+   {
+     padding: 50px 0;
+   }
+ }
+/*******end**footer**********/
+
+/* responsive 2222 css*/
+@media only screen and(min-width: 768px) and (max-width: 991px)
+{
+  .ftr-des
+  {
+    margin-bottom: 30px;
+  }
+ }
+ @media only screen and (max-width: 767px)
+ {
+   .ftr-header
+   {
+     margin-bottom: 30px;
+   }
+   .footer-top
+   {
+     padding: 50px 0;
+   }
+ }
