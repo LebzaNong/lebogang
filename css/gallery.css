@@ -7,8 +7,7 @@
 
 body
   {
-   /* border-bottom: 4px solid #CDA574;
-    border-top: 4px solid #CDA574;*/
+  
     background-image: linear-gradient(rgba(17, 112, 198, 0.8),
     rgba(166, 131, 50, 0.8)),
      url("../images/iostoped/mountain3.jpg");   
@@ -48,19 +47,16 @@ body
 }
 .h1-back
 {  
-    /*background-color: #CDA574;*/
+   
     color: rgb(187, 148, 97);
     padding: 0px;
-    /*border-radius: 20px;*/
+
     box-shadow: -8px 8px 8px 0 rgb(255, 255, 255);
 
     font-family: Raleway;
     font-style: italic;
     font-weight: bolder;
-    /*border-top: 10px solid transparent;
-    border-right: 10px solid whitesmoke;
-    border-left: 10px solid #104ffd;*/
-  
+    
 }
 .h1-apostle
 {
@@ -68,26 +64,13 @@ body
     padding: 10px;
     font-style: italic;
     font-family: Raleway;
-    /*letter-spacing: 10px;*/
+    
 }
 .span-gallery
 {
     color: #fdfdfd;
 }
-/*.h3-back
-{
-  
-   background-color: #b67c10;
 
-    border-radius: 20px;
-    box-shadow: -8px 8px 8px 0 rgb(163, 173, 20);
-   
-    
-}*/
-.border-line
-{
-    
-}
 .left-box
 {
     color:#fff;
@@ -147,11 +130,7 @@ body
     box-shadow: -8px 8px 8px 0 #107afd;
     -webkit-box-reflect: below 2px linear-gradient(transparent,transparent,rgba(10, 10, 10, 0.3));
 }
-.series
-{
-    /*border-bottom: 10px solid #b67c10;
-    padding-bottom: 20px;*/
-}
+
 .series h3
 {
     color: #fff;
@@ -175,7 +154,7 @@ body
 .right-image
 {
   display: inline-block;
-  /*padding: 60px 50px 0px;*/
+ 
   padding: 35px;  
 
 }
